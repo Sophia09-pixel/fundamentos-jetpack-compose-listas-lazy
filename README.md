@@ -15,6 +15,9 @@ Projeto desenvolvido em **Jetpack Compose** para explorar os conceitos de **list
 
 ## 📱 Telas do Projeto
 
+### 📋 Lista inicial
+<img width="300" alt="Lista inicial" src="https://github.com/user-attachments/assets/dd4d0598-1323-406d-ba68-ea79c7522004" />
+
 ### 🔍 Digitando o estúdio
 <img width="300" alt="Digitando o estúdio" src="https://github.com/user-attachments/assets/9feb10d2-b82f-451e-9cc8-8a3623fd2445" />
 
@@ -30,13 +33,9 @@ Projeto desenvolvido em **Jetpack Compose** para explorar os conceitos de **list
 
 ---
 
-### 📋 Lista inicial
-<img width="300" alt="Lista inicial" src="https://github.com/user-attachments/assets/dd4d0598-1323-406d-ba68-ea79c7522004" />
-
----
-
 ## 🚀 Tecnologias Utilizadas
 - Kotlin  
 - Jetpack Compose  
 - LazyColumn & LazyRow  
 - Material Design 3  
+
