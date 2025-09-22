@@ -5,11 +5,20 @@ Projeto desenvolvido em **Jetpack Compose** para explorar os conceitos de **list
 ---
 
 ## 👥 Grupo
-- Arthur Medeiros Isique de Souza  
-- Leonardo de Souza Mazzuca  
-- Luis Miguel Lima Rodrigues  
-- Livia Gallafrio  
-- Sophia de Sousa  
+98041
+-Arthur Medeiros Isique de Souza
+
+99430
+-Leonardo de Souza Mazzuca
+
+99508
+-Livia Gallafrio
+
+551234
+-Luis Miguel Lima Rodrigues
+
+551442
+-Sophia de Sousa
 
 ---
 
@@ -38,4 +47,5 @@ Projeto desenvolvido em **Jetpack Compose** para explorar os conceitos de **list
 - Jetpack Compose  
 - LazyColumn & LazyRow  
 - Material Design 3  
+
 
